@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  word-break: break-word;
+}
+.container{
+  background-color: #323437;
+  width: 100vw;
+  height: 100vh;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app__header{
+  position: fixed;
+  top: 10px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.WRONG{
+  border-bottom: 1px solid rgb(240, 52, 52);
+  color: rgb(255, 0, 0);
+}
+.CORRECT{
+  color: rgb(0, 255, 0);
+}
+

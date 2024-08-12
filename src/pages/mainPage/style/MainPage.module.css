@@ -1,0 +1,13 @@
+.container{
+    width: 60%;
+    min-height: 100px;
+    padding: 10px;
+}
+.typeArea{
+    height: 100%;
+}
+.statisticPage{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}

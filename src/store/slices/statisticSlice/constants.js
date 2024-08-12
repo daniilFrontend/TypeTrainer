@@ -1,0 +1,3 @@
+const TYPE_STATISTIC = "@@TYPE_STATISTIC"
+
+export {TYPE_STATISTIC}
